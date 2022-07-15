@@ -179,4 +179,9 @@ footer p {
         background-color: #1C2A2C;
         min-height: 30vh;
     }
+    .social-banner-sm-img {
+        background-image: url('/images/the-bunker-2.jpg'); 
+        background-color: #1C2A2C;
+        min-height: 30vh;
+    }
 }
